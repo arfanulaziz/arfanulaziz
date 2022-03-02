@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arfanulaziz
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python and R
-- 💞️ I’m looking to collaborate on Data Analytics Project
+- 🌱 I’m currently learning SQL and Python
+- 💞️ I’m looking to collaborate on Data Science & Data Analytics Project
 - 📫 How to reach me : please do not hesitate to email me muhammadarfanulaziz@gmail.com
 
 <!---
